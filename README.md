@@ -72,6 +72,6 @@ DELETE -
 
 <img width="870" alt="image" src="https://github.com/user-attachments/assets/f8aff629-e4a3-4dd3-88ca-d4b371504e2f" />
 
-3. Search tasks by title (/tasks/?search=%title%)   - 5 task here 
+3. Search tasks by title (/tasks/?search=%title%)   - 6 task here 
 
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/b5978ba7-d82f-4aa4-ac3e-0bfcbac72b58" />
