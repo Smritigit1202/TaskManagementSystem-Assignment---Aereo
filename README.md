@@ -39,6 +39,8 @@ API Roots -
 
 
 GET- 
+
+
 <img width="439" alt="image" src="https://github.com/user-attachments/assets/256291e7-9379-49b8-86d8-aaacf427d7fd" />
 
 POST-
@@ -57,7 +59,7 @@ DELETE -
 
 
 
-#Sorting -
+##Sorting -
 
 1. Sorted by date. (/tasks/?sort_by_date=true)
 
