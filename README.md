@@ -35,26 +35,27 @@ This project is an API-based Task Management System built using Django REST Fram
 
 API Roots -
 
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/74a69dcc-4219-4d77-bea7-e92c019930d1" />
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/ae49842a-a840-479d-a16b-f7525ddf736f" />
 
 
 GET- 
 
 
-<img width="439" alt="image" src="https://github.com/user-attachments/assets/256291e7-9379-49b8-86d8-aaacf427d7fd" />
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/d670bf6e-155e-487c-bede-1699cefc508f" />
 
 POST-
 
-<img width="865" alt="image" src="https://github.com/user-attachments/assets/7e298e87-7c73-4626-9f50-169616b53894" />
+<img width="811" alt="image" src="https://github.com/user-attachments/assets/451ea6f3-383c-4a53-90fd-fb29e748ae26" />
 
 PATCH-
 
-<img width="442" alt="image" src="https://github.com/user-attachments/assets/1d6c42cd-88c0-48cd-b742-1ddc16caa43e" />
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/a789cd2e-d1f9-4d10-bef2-d9581e76f6ad" />
+
 
 DELETE - 
 
 
-<img width="409" alt="image" src="https://github.com/user-attachments/assets/8edba9f4-75da-400e-9b25-0ad0e77226f9" />
+<img width="869" alt="image" src="https://github.com/user-attachments/assets/64ceaec9-3d19-4e20-b4ad-bd9ad98023db" />
 
 
 
@@ -63,7 +64,7 @@ DELETE -
 
 1. Sorted by date. (/tasks/?sort_by_date=true)
 
-<img width="401" alt="image" src="https://github.com/user-attachments/assets/76e17293-435e-43f4-98c3-ff34d7084ae1" />
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/4e0c73a8-a203-4af9-b8a2-b9241bf7edd0" />
 
    
 2.Search by Date (/tasks/?search_date=%date%)
@@ -71,7 +72,6 @@ DELETE -
 
 <img width="428" alt="image" src="https://github.com/user-attachments/assets/5c31f2db-199e-493a-9195-0a657d9dd89a" />
 
-3. Search tasks by title (/tasks/?search=%title%)
+3. Search tasks by title (/tasks/?search=%title%)   - 5 task here 
 
-<img width="433" alt="image" src="https://github.com/user-attachments/assets/e70d62a2-ac11-4ac7-a6e2-2da99ee14b10" />
-
+<img width="870" alt="image" src="https://github.com/user-attachments/assets/f8aff629-e4a3-4dd3-88ca-d4b371504e2f" />
