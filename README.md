@@ -70,8 +70,6 @@ DELETE -
 2.Search by Date (/tasks/?search_date=%date%)
 
 
-<img width="428" alt="image" src="https://github.com/user-attachments/assets/5c31f2db-199e-493a-9195-0a657d9dd89a" />
+<img width="870" alt="image" src="https://github.com/user-attachments/assets/f8aff629-e4a3-4dd3-88ca-d4b371504e2f" />
 
 3. Search tasks by title (/tasks/?search=%title%)   - 5 task here 
-
-<img width="870" alt="image" src="https://github.com/user-attachments/assets/f8aff629-e4a3-4dd3-88ca-d4b371504e2f" />
