@@ -1,6 +1,6 @@
 # TaskManagementSystem-Assignment---Aereo
 
-This project is an API-based Task Management System built using Django REST Framework. The system allows users to perform CRUD operations on tasks, with the ability to sort, filter, and search tasks by date or title. It is deployed using Docker for ease of development and deployment.
+This project is an API-based Task Management System built using Django REST Framework. The system allows users to perform CRUD operations on tasks, with the ability to sort, filter, and search tasks by date or title and other tasks. It is deployed using Docker for ease of development and deployment.
 
 ## Setup and Run
 
